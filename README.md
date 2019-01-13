@@ -1,5 +1,5 @@
 # docker-compose-starter
-https://docs.docker.com/compose/gettingstarted/
+Refer to: https://docs.docker.com/compose/gettingstarted/
 
 Verify if Docker and Docker-compose working.
 
